@@ -20,7 +20,7 @@ Currently focused on building resilient hosting infrastructure, automation for d
 
 ## Skills & Technologies
 
-aws,azure,cloudflare,docker,kubernetes,nginx,linux,ubuntu,terraform,postgres,mysql,redis,git,github,githubactions,nodejs,bash,ansible,prometheus,grafana
+[![Skills](https://skillicons.dev/icons?i=aws,azure,cloudflare,docker,kubernetes,nginx,linux,ubuntu,terraform,postgres,mysql,redis,git,github,githubactions,nodejs,bash,ansible,prometheus,grafana)](https://skillicons.dev)
 
 ## Top Projects
 
@@ -47,10 +47,6 @@ Notes:
 - Following: **0**
 
 Badges & live stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ingenhost&show_icons=true&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingenhost&layout=compact&hide_border=true)
 
 ![Followers](https://img.shields.io/github/followers/ingenhost?label=Followers&style=social)
 ![Stars](https://img.shields.io/github/stars/ingenhost?style=social)
