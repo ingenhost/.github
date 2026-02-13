@@ -1,7 +1,5 @@
 ## Hi there! 👋
 
-# Hi there! 👋
-
 **INGEN Cloud LLC** — High-performance & reliable hosting provider.
 
 I build and operate resilient, high-performance hosting infrastructure for individuals and teams. Fast, reliable, and production-ready hosting solutions designed for modern apps and services. 🚀
